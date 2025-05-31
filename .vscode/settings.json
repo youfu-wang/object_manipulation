@@ -1,0 +1,28 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/yifanwang/test_ws/install/wyif_action_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ros2_robotiqgripper/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/pose_publisher_py2/lib/python3.10/site-packages",
+        "/home/yifanwang/test_ws/install/mecheye_ros_interface/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/custom_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/yifanwang/test_ws/install/wyif_action_interfaces/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ur_robot_driver/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ur_moveit_config/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ur_dashboard_msgs/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/ros2_robotiqgripper/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/realsense2_camera_msgs/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/pose_publisher_py2/lib/python3.10/site-packages",
+        "/home/yifanwang/test_ws/install/mecheye_ros_interface/local/lib/python3.10/dist-packages",
+        "/home/yifanwang/test_ws/install/custom_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
